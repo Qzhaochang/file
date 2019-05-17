@@ -1,2 +1,2 @@
 # file
-storage files and pictures
+store files and pictures
